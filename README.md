@@ -4,10 +4,7 @@
          width="45" />, I'm Viraj Vardhan Pandey</h1>
 <h5 align="left">
 
-**`Keyboard Warrior in the Land of Semicolons`**
-
-I'm a developer who loves turning messy problems into clean, working code. I enjoy building full stack applications that are actually useful whether it's designing smooth user interfaces or wiring up the logic behind the scenes. Coding, for me, is part curiosity, part creativity, and a whole lot of Ctrl + Z.
-When I’m not debugging or chasing down that one missing bracket, you’ll probably find me writing sharing what I’ve learned, the stuff that didn’t work (and why), and how I’m figuring it all out one project at a time. I believe good code tells a story and I’m here to write mine, one commit at a time.
+I Code.
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -28,8 +25,6 @@ When I’m not debugging or chasing down that one missing bracket, you’ll prob
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vardhancodes&limit=5&theme=dark&combine_all_yearly_contributions=true)
