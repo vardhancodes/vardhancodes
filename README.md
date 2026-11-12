@@ -2,7 +2,7 @@
 
 # Hi there, I'm Viraj Vardhan Pandey 👋
 
-### **Backend Engineer · Distributed Systems & Concurrency · Agentic AI Systems**
+### **Backend Systems Engineer · Concurrency & Distributed Runtimes · Agentic AI Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Vardhan%20Pandey-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viraj-vardhan-pandey/)
 [![GitHub](https://img.shields.io/badge/GitHub-vardhancodes-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vardhancodes)
@@ -10,7 +10,7 @@
 [![Internship](https://img.shields.io/badge/Ameriprise%20Financial-Technology%20Intern-002D62?style=flat-square&logo=briefcase&logoColor=white)](https://www.linkedin.com/in/viraj-vardhan-pandey/)
 
 <p align="center">
-  <em>CS Undergraduate focused on high-performance Java backend architecture, low-latency concurrent systems, and production multi-agent AI pipelines.</em>
+  <em>CS Undergraduate focused on high-throughput Java backend architecture, low-latency concurrent systems, and production multi-agent AI pipelines.</em>
 </p>
 
 ---
@@ -21,8 +21,39 @@
 
 - 💼 **Technology Intern** at **Ameriprise Financial Services**, working with enterprise cloud infrastructure, data workflows, and backend services.
 - ⚡ **Core Focus:** Building high-throughput, thread-safe backend architectures in **Java / Spring Boot** and exploring autonomous **Agentic AI workflows**.
-- 🛠️ **Systems & Concurrency:** Deep interest in socket-level networking, thread pools, memory models, and distributed systems fundamentals.
+- 🛠️ **Systems & Concurrency:** Deep interest in socket-level networking, custom thread pools, memory models, and distributed systems fundamentals.
 - 🧩 **Problem Solving:** Consistently sharpening algorithmic problem-solving across Data Structures & Algorithms in Java.
+
+---
+
+## 🏛️ Engineering Ecosystem & Focus Areas
+
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                             VIRAJ VARDHAN PANDEY                            │
+│                     Software Engineer & Systems Architect                   │
+└───────┬─────────────────────────────┬─────────────────────────────┬─────────┘
+        │                             │                             │
+        ▼                             ▼                             ▼
+┌─────────────────────────┐   ┌─────────────────────────┐   ┌─────────────────────────┐
+│   Backend & Systems     │   │   Agentic AI Pipelines  │   │  Frontend & Analytics   │
+├─────────────────────────┤   ├─────────────────────────┤   ├─────────────────────────┤
+│ • Java 17/21            │   │ • LangChain Multi-Agent │   │ • Next.js 14 App Router │
+│ • Spring Boot 3.x       │   │ • Search & Reader Loops │   │ • React 18 & Vite       │
+│ • TCP Sockets & NIO     │   │ • Autonomous Synthesis  │   │ • TypeScript & Tailwind │
+│ • Custom Thread Pools   │   │ • Automated Evaluation  │   │ • Recharts Visualizer   │
+│ • JPA & Hibernate       │   │ • Tavily Web Extraction │   │ • Framer Motion UI      │
+└───────────┬─────────────┘   └───────────┬─────────────┘   └───────────┬─────────────┘
+            │                             │                             │
+            └──────────────────────────┬──┴─────────────────────────────┘
+                                       │
+                                       ▼
+                      ┌─────────────────────────────────┐
+                      │    Enterprise Cloud & Storage   │
+                      │  PostgreSQL · MySQL · MongoDB   │
+                      │   Docker · Linux · Git · GCP    │
+                      └─────────────────────────────────┘
+```
 
 ---
 
